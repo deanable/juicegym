@@ -81,3 +81,5 @@ C:\Users\User\source\repos\JuiceGym\JuiceGym.UI.WinForms\obj\Debug\net8.0-window
 C:\Users\User\source\repos\JuiceGym\JuiceGym.UI.WinForms\obj\Debug\net8.0-windows\JuiceGym.UI.WinForms.pdb
 C:\Users\User\source\repos\JuiceGym\JuiceGym.UI.WinForms\obj\Debug\net8.0-windows\JuiceGym.UI.WinForms.genruntimeconfig.cache
 C:\Users\User\source\repos\JuiceGym\JuiceGym.UI.WinForms\obj\Debug\net8.0-windows\ref\JuiceGym.UI.WinForms.dll
+C:\Users\User\source\repos\JuiceGym\JuiceGym.UI.WinForms\obj\Debug\net8.0-windows\JuiceGym.UI.WinForms.Form1.resources
+C:\Users\User\source\repos\JuiceGym\JuiceGym.UI.WinForms\obj\Debug\net8.0-windows\JuiceGym.UI.WinForms.csproj.GenerateResource.cache

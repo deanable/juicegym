@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JuiceGym.UI.WinForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06def78a2559d75a99cee61f2ce6b137c2bf9044")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d25d40b5f870fdd9cf0acdbf395adcf8bd0c709c")]
 [assembly: System.Reflection.AssemblyProductAttribute("JuiceGym.UI.WinForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JuiceGym.UI.WinForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

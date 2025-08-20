@@ -5651,11 +5651,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.UI\\JuiceGym.UI.csproj",
+      "projectUniqueName": "c:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.UI\\JuiceGym.UI.csproj",
       "projectName": "JuiceGym.UI",
-      "projectPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.UI\\JuiceGym.UI.csproj",
+      "projectPath": "c:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.UI\\JuiceGym.UI.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.UI\\obj\\",
+      "outputPath": "c:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5677,14 +5677,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Core\\JuiceGym.Core.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Core\\JuiceGym.Core.csproj"
+            "c:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Core\\JuiceGym.Core.csproj": {
+              "projectPath": "c:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Core\\JuiceGym.Core.csproj"
             },
             "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj": {
               "projectPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Training\\JuiceGym.Training.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Training\\JuiceGym.Training.csproj"
+            "c:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Training\\JuiceGym.Training.csproj": {
+              "projectPath": "c:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Training\\JuiceGym.Training.csproj"
             }
           }
         }
