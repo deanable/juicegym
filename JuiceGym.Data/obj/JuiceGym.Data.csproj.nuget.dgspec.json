@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj": {}
+    "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Core\\JuiceGym.Core.csproj": {
+    "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Core\\JuiceGym.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Core\\JuiceGym.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Core\\JuiceGym.Core.csproj",
         "projectName": "JuiceGym.Core",
-        "projectPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Core\\JuiceGym.Core.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Core\\obj\\",
+        "projectPath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Core\\JuiceGym.Core.csproj",
+        "packagesPath": "C:\\Users\\Dean Kruger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dean Kruger\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WinUI\\25.1.35\\NuGetPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -76,20 +75,20 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj": {
+    "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
         "projectName": "JuiceGym.Data",
-        "projectPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\obj\\",
+        "projectPath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+        "packagesPath": "C:\\Users\\Dean Kruger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dean Kruger\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -98,15 +97,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WinUI\\25.1.35\\NuGetPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Core\\JuiceGym.Core.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Core\\JuiceGym.Core.csproj"
+              "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Core\\JuiceGym.Core.csproj": {
+                "projectPath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Core\\JuiceGym.Core.csproj"
               }
             }
           }

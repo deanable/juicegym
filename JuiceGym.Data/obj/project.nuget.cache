@@ -1,33 +1,33 @@
 {
   "version": 2,
-  "dgSpecHash": "ZrNx+qAB2pM=",
+  "dgSpecHash": "7RiJOl7jBjY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+  "projectFilePath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\sixlabors.imagesharp\\3.0.2\\sixlabors.imagesharp.3.0.2.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+    "C:\\Users\\Dean Kruger\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dean Kruger\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dean Kruger\\.nuget\\packages\\sixlabors.imagesharp\\3.0.2\\sixlabors.imagesharp.3.0.2.nupkg.sha512",
+    "C:\\Users\\Dean Kruger\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dean Kruger\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dean Kruger\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dean Kruger\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dean Kruger\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dean Kruger\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dean Kruger\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dean Kruger\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dean Kruger\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dean Kruger\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dean Kruger\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dean Kruger\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'SixLabors.ImageSharp' 3.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-2cmq-823j-5qj8",
-      "projectPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+      "projectPath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+      "filePath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
       "libraryId": "SixLabors.ImageSharp",
       "targetGraphs": [
         "net8.0"
@@ -37,9 +37,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'SixLabors.ImageSharp' 3.0.2 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-5x7m-6737-26cr",
-      "projectPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+      "projectPath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+      "filePath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
       "libraryId": "SixLabors.ImageSharp",
       "targetGraphs": [
         "net8.0"
@@ -49,9 +49,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'SixLabors.ImageSharp' 3.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-63p8-c4ww-9cg7",
-      "projectPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+      "projectPath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+      "filePath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
       "libraryId": "SixLabors.ImageSharp",
       "targetGraphs": [
         "net8.0"
@@ -61,9 +61,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'SixLabors.ImageSharp' 3.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-65x7-c272-7g7r",
-      "projectPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+      "projectPath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+      "filePath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
       "libraryId": "SixLabors.ImageSharp",
       "targetGraphs": [
         "net8.0"
@@ -73,9 +73,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'SixLabors.ImageSharp' 3.0.2 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-g85r-6x2q-45w7",
-      "projectPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+      "projectPath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+      "filePath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
       "libraryId": "SixLabors.ImageSharp",
       "targetGraphs": [
         "net8.0"
@@ -85,9 +85,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'SixLabors.ImageSharp' 3.0.2 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-qxrv-gp6x-rc23",
-      "projectPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+      "projectPath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+      "filePath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
       "libraryId": "SixLabors.ImageSharp",
       "targetGraphs": [
         "net8.0"
@@ -97,9 +97,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'SixLabors.ImageSharp' 3.0.2 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-rxmq-m78w-7wmc",
-      "projectPath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+      "projectPath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\User\\source\\repos\\JuiceGym\\JuiceGym.Data\\JuiceGym.Data.csproj",
+      "filePath": "C:\\Users\\Dean Kruger\\Source\\Repos\\juicegym\\JuiceGym.Data\\JuiceGym.Data.csproj",
       "libraryId": "SixLabors.ImageSharp",
       "targetGraphs": [
         "net8.0"
