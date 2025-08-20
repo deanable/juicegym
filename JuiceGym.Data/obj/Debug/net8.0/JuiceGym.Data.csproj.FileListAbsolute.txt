@@ -8,9 +8,9 @@ C:\Users\User\source\repos\JuiceGym\JuiceGym.Data\obj\Debug\net8.0\JuiceGym.Data
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Data\obj\Debug\net8.0\JuiceGym.Data.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Data\obj\Debug\net8.0\JuiceGym.Data.AssemblyInfo.cs
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Data\obj\Debug\net8.0\JuiceGym.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JuiceGym\JuiceGym.Data\obj\Debug\net8.0\JuiceGym.Data.sourcelink.json
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Data\obj\Debug\net8.0\JuiceGym.FD98F7A6.Up2Date
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Data\obj\Debug\net8.0\JuiceGym.Data.dll
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Data\obj\Debug\net8.0\refint\JuiceGym.Data.dll
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Data\obj\Debug\net8.0\JuiceGym.Data.pdb
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Data\obj\Debug\net8.0\ref\JuiceGym.Data.dll
-c:\Users\User\source\repos\JuiceGym\JuiceGym.Data\obj\Debug\net8.0\JuiceGym.Data.sourcelink.json

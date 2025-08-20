@@ -68,10 +68,10 @@ C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\JuiceGym.
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\JuiceGym.Training.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\JuiceGym.Training.AssemblyInfo.cs
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\JuiceGym.Training.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\JuiceGym.Training.sourcelink.json
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\JuiceGym.E833DC34.Up2Date
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\JuiceGym.Training.dll
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\refint\JuiceGym.Training.dll
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\JuiceGym.Training.pdb
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\JuiceGym.Training.genruntimeconfig.cache
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\ref\JuiceGym.Training.dll
-c:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\JuiceGym.Training.sourcelink.json

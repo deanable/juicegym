@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\JuiceGym\JuiceGym.UI\obj\Debug\net8.0-windows\JuiceGym.UI.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JuiceGym\JuiceGym.UI\obj\Debug\net8.0-windows\JuiceGym.GUI\MainWindow.baml
+C:\Users\User\source\repos\JuiceGym\JuiceGym.UI\obj\Debug\net8.0-windows\JuiceGym.GUI\App.g.cs
+C:\Users\User\source\repos\JuiceGym\JuiceGym.UI\obj\Debug\net8.0-windows\JuiceGym.GUI\MainWindow.g.cs
+C:\Users\User\source\repos\JuiceGym\JuiceGym.UI\obj\Debug\net8.0-windows\JuiceGym.UI_MarkupCompile.cache
+C:\Users\User\source\repos\JuiceGym\JuiceGym.UI\obj\Debug\net8.0-windows\JuiceGym.UI_MarkupCompile.lref

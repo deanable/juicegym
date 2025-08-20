@@ -5,8 +5,8 @@ C:\Users\User\source\repos\JuiceGym\JuiceGym.Core\obj\Debug\net8.0\JuiceGym.Core
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Core\obj\Debug\net8.0\JuiceGym.Core.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Core\obj\Debug\net8.0\JuiceGym.Core.AssemblyInfo.cs
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Core\obj\Debug\net8.0\JuiceGym.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JuiceGym\JuiceGym.Core\obj\Debug\net8.0\JuiceGym.Core.sourcelink.json
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Core\obj\Debug\net8.0\JuiceGym.Core.dll
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Core\obj\Debug\net8.0\refint\JuiceGym.Core.dll
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Core\obj\Debug\net8.0\JuiceGym.Core.pdb
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Core\obj\Debug\net8.0\ref\JuiceGym.Core.dll
-c:\Users\User\source\repos\JuiceGym\JuiceGym.Core\obj\Debug\net8.0\JuiceGym.Core.sourcelink.json
