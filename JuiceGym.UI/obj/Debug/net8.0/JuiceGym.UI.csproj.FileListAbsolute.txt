@@ -98,3 +98,4 @@ C:\Users\User\source\repos\JuiceGym\JuiceGym.UI\bin\Debug\net8.0\JuiceGym.Traini
 C:\Users\User\source\repos\JuiceGym\JuiceGym.UI\bin\Debug\net8.0\JuiceGym.Data.pdb
 C:\Users\User\source\repos\JuiceGym\JuiceGym.UI\bin\Debug\net8.0\JuiceGym.Training.pdb
 C:\Users\User\source\repos\JuiceGym\JuiceGym.UI\obj\Debug\net8.0\JuiceGym.UI.xml
+c:\Users\User\source\repos\JuiceGym\JuiceGym.UI\obj\Debug\net8.0\JuiceGym.UI.sourcelink.json

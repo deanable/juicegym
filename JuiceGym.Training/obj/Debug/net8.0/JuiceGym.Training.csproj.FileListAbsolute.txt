@@ -74,3 +74,4 @@ C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\refint\Ju
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\JuiceGym.Training.pdb
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\JuiceGym.Training.genruntimeconfig.cache
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\ref\JuiceGym.Training.dll
+c:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\JuiceGym.Training.sourcelink.json

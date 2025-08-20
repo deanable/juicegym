@@ -13,3 +13,4 @@ C:\Users\User\source\repos\JuiceGym\JuiceGym.Data\obj\Debug\net8.0\JuiceGym.Data
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Data\obj\Debug\net8.0\refint\JuiceGym.Data.dll
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Data\obj\Debug\net8.0\JuiceGym.Data.pdb
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Data\obj\Debug\net8.0\ref\JuiceGym.Data.dll
+c:\Users\User\source\repos\JuiceGym\JuiceGym.Data\obj\Debug\net8.0\JuiceGym.Data.sourcelink.json
