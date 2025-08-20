@@ -17,14 +17,26 @@ public class ServiceContainer
 
     public void Register<TInterface>(Func<TInterface> factory)
     {
-        _registrations[typeof(TInterface)] = () => factory();
+        if (factory == null)
+            throw new ArgumentNullException(nameof(factory));
+
+        _registrations[typeof(TInterface)] = () =>
+        {
+            var result = factory();
+            if (result == null)
+                throw new InvalidOperationException($"Factory for {typeof(TInterface).Name} returned null");
+            return result;
+        };
     }
 
     public TInterface GetService<TInterface>()
     {
         if (_registrations.TryGetValue(typeof(TInterface), out var factory))
         {
-            return (TInterface)factory();
+            var result = factory();
+            if (result == null)
+                throw new InvalidOperationException($"Factory for {typeof(TInterface).Name} returned null");
+            return (TInterface)result;
         }
 
         throw new InvalidOperationException($"Service {typeof(TInterface).Name} not registered");

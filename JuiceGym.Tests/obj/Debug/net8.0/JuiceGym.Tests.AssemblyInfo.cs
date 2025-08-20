@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JuiceGym.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03699fe0ead29b99e9c06d183422cd9a8be4e208")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55807db72ceb6177894353c3d4248cf1c2cccf18")]
 [assembly: System.Reflection.AssemblyProductAttribute("JuiceGym.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JuiceGym.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

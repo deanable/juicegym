@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\JuiceGym\JuiceGym.UI.WinForms\obj\Debug\net9.0-windows\JuiceGym.UI.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JuiceGym\JuiceGym.UI.WinForms\obj\Debug\net9.0-windows\JuiceGym.UI.WinForms.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JuiceGym\JuiceGym.UI.WinForms\obj\Debug\net9.0-windows\JuiceGym.UI.WinForms.AssemblyInfo.cs
+C:\Users\User\source\repos\JuiceGym\JuiceGym.UI.WinForms\obj\Debug\net9.0-windows\JuiceGym.UI.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JuiceGym\JuiceGym.UI.WinForms\obj\Debug\net9.0-windows\JuiceGym.UI.WinForms.sourcelink.json

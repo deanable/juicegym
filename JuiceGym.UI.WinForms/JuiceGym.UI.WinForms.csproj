@@ -2,10 +2,16 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net9.0-windows</TargetFramework>
+    <TargetFramework>net8.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JuiceGym.Core\JuiceGym.Core.csproj" />
+    <ProjectReference Include="..\JuiceGym.Data\JuiceGym.Data.csproj" />
+    <ProjectReference Include="..\JuiceGym.Training\JuiceGym.Training.csproj" />
+  </ItemGroup>
 
 </Project>
