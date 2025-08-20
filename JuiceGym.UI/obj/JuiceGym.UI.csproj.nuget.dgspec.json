@@ -129,7 +129,7 @@
           "dependencies": {
             "SixLabors.ImageSharp": {
               "target": "Package",
-              "version": "[3.0.2, )"
+              "version": "[3.1.11, )"
             }
           },
           "imports": [
@@ -217,6 +217,10 @@
             "Microsoft.ML.OnnxRuntime": {
               "target": "Package",
               "version": "[1.22.1, )"
+            },
+            "Microsoft.ML.OnnxTransformer": {
+              "target": "Package",
+              "version": "[4.0.2, )"
             }
           },
           "imports": [

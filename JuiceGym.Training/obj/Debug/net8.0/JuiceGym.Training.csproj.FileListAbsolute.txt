@@ -75,3 +75,5 @@ C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\refint\Ju
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\JuiceGym.Training.pdb
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\JuiceGym.Training.genruntimeconfig.cache
 C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\obj\Debug\net8.0\ref\JuiceGym.Training.dll
+C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\User\source\repos\JuiceGym\JuiceGym.Training\bin\Debug\net8.0\Microsoft.ML.OnnxTransformer.dll

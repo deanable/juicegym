@@ -20,12 +20,23 @@ namespace JuiceGym.GUI
         {
             try
             {
-                string path = PathTextBox.Text;
-                int epochs = int.Parse(EpochsTextBox.Text);
+                // Input validation
+                string path = PathTextBox.Text?.Trim();
+                if (string.IsNullOrEmpty(path))
+                {
+                    ResultLabel.Text = "Please enter a directory path";
+                    return;
+                }
+
+                if (!int.TryParse(EpochsTextBox.Text, out int epochs) || epochs < 1 || epochs > 1000)
+                {
+                    ResultLabel.Text = "Please enter a valid number of epochs (1-1000)";
+                    return;
+                }
 
                 if (!Directory.Exists(path))
                 {
-                    ResultLabel.Text = "Invalid path";
+                    ResultLabel.Text = $"Directory not found: {path}";
                     return;
                 }
 
@@ -35,7 +46,7 @@ namespace JuiceGym.GUI
 
                 ResultLabel.Text = "Training model...";
                 var trainer = new Trainer();
-                var trainingConfig = new TrainingConfig { Epochs = epochs };
+                var trainingConfig = new TrainingConfig(epochs, 32);
                 var modelPath = await trainer.TrainModelAsync(imageData, trainingConfig);
 
                 ResultLabel.Text = $"Model saved to: {modelPath}";

@@ -9,7 +9,7 @@
       "JuiceGym.Data/1.0.0": {
         "dependencies": {
           "JuiceGym.Core": "1.0.0",
-          "SixLabors.ImageSharp": "3.0.2"
+          "SixLabors.ImageSharp": "3.1.11"
         },
         "runtime": {
           "JuiceGym.Data.dll": {}
@@ -17,11 +17,11 @@
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
-      "SixLabors.ImageSharp/3.0.2": {
+      "SixLabors.ImageSharp/3.1.11": {
         "runtime": {
           "lib/net6.0/SixLabors.ImageSharp.dll": {
             "assemblyVersion": "3.0.0.0",
-            "fileVersion": "3.0.2.0"
+            "fileVersion": "3.1.11.0"
           }
         }
       },
@@ -149,12 +149,12 @@
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
     },
-    "SixLabors.ImageSharp/3.0.2": {
+    "SixLabors.ImageSharp/3.1.11": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-PlwUHnLZ67G1i0xXDYQJYbFiJsvXiEFWtKdV0QvY9j+dFasYbl+vWXXY42/asTsNjchsH5BLuoRzlf8Fa8lzpg==",
-      "path": "sixlabors.imagesharp/3.0.2",
-      "hashPath": "sixlabors.imagesharp.3.0.2.nupkg.sha512"
+      "sha512": "sha512-JfPLyigLthuE50yi6tMt7Amrenr/fA31t2CvJyhy/kQmfulIBAqo5T/YFUSRHtuYPXRSaUHygFeh6Qd933EoSw==",
+      "path": "sixlabors.imagesharp/3.1.11",
+      "hashPath": "sixlabors.imagesharp.3.1.11.nupkg.sha512"
     },
     "System.Collections/4.3.0": {
       "type": "package",

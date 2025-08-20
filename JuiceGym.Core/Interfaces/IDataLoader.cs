@@ -14,3 +14,19 @@ public interface IDataLoader
     /// <returns>Collection of ImageData objects</returns>
     Task<IEnumerable<ImageData>> LoadImagesAsync(string directoryPath);
 }
+
+/// <summary>
+/// Interface for configuration management
+/// </summary>
+public interface IConfigurationService
+{
+    /// <summary>
+    /// Gets the current application configuration
+    /// </summary>
+    AppConfig GetConfiguration();
+
+    /// <summary>
+    /// Updates the application configuration
+    /// </summary>
+    void UpdateConfiguration(AppConfig config);
+}

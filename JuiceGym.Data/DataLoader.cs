@@ -1,13 +1,15 @@
 using System;
+using System.Collections.Generic;
+using System.Collections.Concurrent;
+using System.IO;
+using System.Linq;
+using System.Threading;
+using System.Threading.Tasks;
 using JuiceGym.Core.Interfaces;
 using JuiceGym.Core.Models;
 using JuiceGym.Data.Utils;
+using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.Metadata.Profiles.Exif;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using System.Linq;
-using System.Collections.Concurrent;
-using System.IO;
 
 namespace JuiceGym.Data
 {
@@ -27,6 +29,10 @@ namespace JuiceGym.Data
             var imageData = new ConcurrentBag<ImageData>();
             var uniqueTags = new ConcurrentDictionary<string, uint>();
             uint currentLabel = 0;
+            int processedCount = 0;
+            int errorCount = 0;
+
+            Console.WriteLine($"[{DateTime.Now:HH:mm:ss}] Processing {files.Count} images...");
 
             await Parallel.ForEachAsync(files, async (file, token) =>
             {
@@ -40,7 +46,7 @@ namespace JuiceGym.Data
                             .Where(t => !string.IsNullOrEmpty(t))
                             .ToArray();
 
-                        if (tags != null)
+                        if (tags != null && tags.Length > 0)
                         {
                             var labels = tags.Select(tag =>
                             {
@@ -53,22 +59,36 @@ namespace JuiceGym.Data
                             }).ToArray();
 
                             imageData.Add(new ImageData(file, tags, labels));
+                            Interlocked.Increment(ref processedCount);
                         }
                         else
                         {
-                            Console.WriteLine($"No EXIF tags found in {file}");
+                            Console.WriteLine($"[{DateTime.Now:HH:mm:ss}] No EXIF tags found in {Path.GetFileName(file)}");
+                            Interlocked.Increment(ref errorCount);
                         }
                     }
                     else
                     {
-                        Console.WriteLine($"Unsupported format: {file}");
+                        Console.WriteLine($"[{DateTime.Now:HH:mm:ss}] No EXIF profile found in {Path.GetFileName(file)}");
+                        Interlocked.Increment(ref errorCount);
                     }
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"[{DateTime.Now:HH:mm:ss}] Error processing {file}: {ex.Message}");
+                    Console.WriteLine($"[{DateTime.Now:HH:mm:ss}] Error processing {Path.GetFileName(file)}: {ex.Message}");
+                    Interlocked.Increment(ref errorCount);
                 }
             });
+
+            Console.WriteLine($"[{DateTime.Now:HH:mm:ss}] Data loading completed:");
+            Console.WriteLine($"[{DateTime.Now:HH:mm:ss}] - Successfully processed: {processedCount} images");
+            Console.WriteLine($"[{DateTime.Now:HH:mm:ss}] - Errors: {errorCount} images");
+            Console.WriteLine($"[{DateTime.Now:HH:mm:ss}] - Unique tags found: {uniqueTags.Count}");
+
+            if (processedCount == 0)
+            {
+                throw new InvalidOperationException("No valid images found with EXIF tags. Ensure images have proper metadata.");
+            }
 
             return imageData.OrderBy(d => d.ImagePath).ToList();
         }
