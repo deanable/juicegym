@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JuiceGym.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d25d40b5f870fdd9cf0acdbf395adcf8bd0c709c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91f4221184aab1b3eeea2d7416140c796440ecb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("JuiceGym.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JuiceGym.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
